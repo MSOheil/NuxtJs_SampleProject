@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  heade() {
+  head() {
     return {
       title: "About Page",
       meta:[
